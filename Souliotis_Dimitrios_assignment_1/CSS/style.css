@@ -1,0 +1,46 @@
+body {
+  background-color: lightblue;
+  border-bottom: 3px solid orange;
+  color: white;
+}
+
+.mybox img {
+  max-height: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bgheader {
+  background-image: url("/IMAGES/programming-languages.jpeg");
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.headerImageFont {
+  color: lightgray;
+}
+
+.no-radius {
+  border-radius: 0 !important;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 15px;
+}
+
+.bg-custom {
+  background-color: crimson;
+  border-bottom: 3px solid orange;
+  color: white;
+}
+
+.object {
+  text-align: left;
+}
+
+#mainId {
+  text-align: left;
+}
